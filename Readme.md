@@ -13,6 +13,6 @@
 # Deploying..
 To deploy the app to Heroku click the link and login
 <a href="https://heroku.com/deploy" > This </a>
- or (https://heroku.com/deploy?template=https://https://github.com/testfbbot/bot)
+ or (https://heroku.com/deploy?template=https://github.com/testfbbot/bot)
 
 
